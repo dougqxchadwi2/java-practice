@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Cross-checked behaviour against spec
 - Added CONTRIBUTING.md stub
+
+## 2026-05-13
+- Added type hints to helper functions
