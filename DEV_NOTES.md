@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Added type hints to helper functions
+
+## 2026-05-13
+- Improved error handling in edge cases
